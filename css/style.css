@@ -297,4 +297,20 @@ footer {
 html{
     scroll-behavior: smooth;
 }
+@media screen and (max-width: 768px){
+
+    aside{
+        width:100%;
+    }
+
+    section{
+        width:100%;
+    }
+
+    .card{
+        width:100%;
+        margin-bottom:20px;
+    }
+
+}
 
